@@ -1,6 +1,6 @@
 # LeetCode
 
-[在线查看](index.html)
+[在线查看](http://tangzx.qiniudn.com/notes/leetcode-maskray)
 
 [PDF 打印版本（1.29 MB）](http://whudoc.qiniudn.com/2016/leetcode-maskray-all_in_one.pdf)
 
