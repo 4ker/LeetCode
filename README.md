@@ -1,5 +1,7 @@
 # LeetCode
 
+[all in one page.](index.html)
+
 [LeetCode solutions](http://maskray.me/blog/2014-06-29-leetcode-solutions) gives some thoughts on selected problems.
 
 Solved 373/373 problems.
