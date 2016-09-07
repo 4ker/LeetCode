@@ -1,6 +1,8 @@
 # LeetCode
 
-[all in one page.](index.html)
+[在线查看](index.html)
+
+[PDF 打印版本（1.29 MB）](http://whudoc.qiniudn.com/2016/leetcode-maskray-all_in_one.pdf)
 
 [LeetCode solutions](http://maskray.me/blog/2014-06-29-leetcode-solutions) gives some thoughts on selected problems.
 
